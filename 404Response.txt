@@ -1,0 +1,12 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Type: text/html
+Content-Length: 124
+
+<!DOCTYPE html>
+<head>
+    <title>File not found</title>
+</head>
+<body>
+    <p>The requested file was not found.</p>
+</body>

@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Connection: close
+Content-Type: text/html
+Content-Length: 155
+
+<!DOCTYPE html>
+<head>
+    <title>URL shortening</title>
+</head>
+<body>
+    <h1>Your URL</h1>
+    <p>Your URL is http://localhost:8888/s/XXXXXX</p>
+</body>

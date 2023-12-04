@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/media/sf_CS_480/HW2",
+            "binaryPath": "/media/sf_CS_480/HW2/miniweb",
+            "binaryArgs": []
+        }
+    ]
+}
